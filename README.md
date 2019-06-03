@@ -18,7 +18,7 @@ Installation
 EITHER via composer:
 
 ```
-composer require springedge/sms
+composer require springedge/laravel-sms
 
 ```
 
@@ -27,7 +27,7 @@ OR by adding the following to your composer.json file and running "composer upda
 ```
 "require": {
     ...
-    "springedge/sms": "1.0.*"
+    "springedge/laravel-sms": "1.0.*"
 }
 
 ```
