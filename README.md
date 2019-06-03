@@ -17,15 +17,20 @@ Installation
 
 EITHER via composer:
 
+```
 composer require springedge/sms
+
+```
 
 OR by adding the following to your composer.json file and running "composer update"
 
+```
 "require": {
     ...
     "springedge/sms": "1.0.*"
 }
 
+```
 
 Usage
 -----
