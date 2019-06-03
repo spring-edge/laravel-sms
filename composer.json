@@ -1,0 +1,12 @@
+{
+    "name": "springedge/sms",
+    "description": "Send sms from laravel using spring edge sms gateway API",
+    "authors": [
+        {
+            "name": "Spring Edge",
+            "email": "contact@springedge.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
