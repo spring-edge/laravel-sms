@@ -45,7 +45,7 @@ sms = SmsApi(apikey, sender)
 
 sms = sms.send_sms(
     recipient="902000xxxx",
-    message="test message"
+    message="Hello, This is a test message from spring edge"
 )
 
 ```
